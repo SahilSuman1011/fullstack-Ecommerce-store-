@@ -26,11 +26,11 @@ A mock eCommerce website similar to Amazon, featuring a user-friendly interface 
 - Complete the flow from product selection to checkout and payment success/failure.
 
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript
-- React (or any other front-end library/framework you prefer)
-- Mock APIs (like JSONPlaceholder or your custom mocks)
+- **MongoDB**: Database for storing product inventory and user data.
+- **Express.js**: Web framework for Node.js to build APIs.
+- **React.js**: Frontend library for building user interfaces.
+- **Node.js**: JavaScript runtime for server-side development.
+- Mock APIs (like JSONPlaceholder or your custom mocks) for loading product data.
 
 ## Installation
 1. Clone the repository:
