@@ -64,20 +64,8 @@ A mock eCommerce website similar to Amazon, featuring a user-friendly interface 
   - Processes the checkout with payment information.
 
 ## Folder Structure
-```
-mock-ecommerce-website/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── HomePage.js
-│   │   ├── ProductListingPage.js
-│   │   ├── ProductDetailPage.js
-│   │   ├── CheckoutPage.js
-│   │   └── PaymentResultPage.js
-│   ├── App.js
-│   └── index.js
-└── package.json
-```
+![image](https://github.com/user-attachments/assets/06ce0b6a-c813-42f7-ae2b-c1ed965a36a9)
+
 
 ## Contributing
 If you'd like to contribute to this project, feel free to submit a pull request or open an issue.
